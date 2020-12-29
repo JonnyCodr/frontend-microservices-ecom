@@ -1,1 +1,1 @@
-console.log('container works')
+import('./bootstrap');
